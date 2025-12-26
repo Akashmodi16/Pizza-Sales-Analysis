@@ -22,9 +22,12 @@ The objective is to support data-driven business decisions using SQL and Power B
 
 ---
 
-## 📊 Dashboard Preview
-![Pizza Sales Dashboard](https://drive.google.com/file/d/1quS2ksrYBkLUedApgIn2CdJWSSgT7gwC/view?usp=sharing)
+## 📊 Dashboard Preview & Download
+The interactive Power BI dashboard can be downloaded from the link below:
 
+👉 **[Download Power BI Dashboard](https://drive.google.com/file/d/1quS2ksrYBkLUedApgIn2CdJWSSgT7gwC/view?usp=sharing)**
+
+> *Note: Download the file and open it in Power BI Desktop to explore the interactive visuals.*
 ---
 
 ## 📂 Project Structure
